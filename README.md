@@ -1,6 +1,6 @@
 # Tableau-City-Bike
 Using Tableau joins, aliases and maps to analyze and create a data story
-https://public.tableau.com/profile/ladyj7118#!/vizhome/CityBikeRideorDie_asj/CityBike2021?publish=yes
+https://public.tableau.com/views/CityBikeRideorDie_asj/CityBike2021?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ![drive_less.png](drive_less.png)
 
